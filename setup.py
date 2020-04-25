@@ -21,6 +21,7 @@ setuptools.setup(
         'zny-yespower-0-5': ['zny-yespower-0-5'],
         'bell-yespower': ['bell-yespower'],
         'cpupower': ['cpupower'],
+        'verushash': ['verushash'],
     },
     packages=setuptools.find_packages(include=('electrumx*',)),
     description='ElectrumX Server',
